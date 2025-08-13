@@ -1,0 +1,471 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    color: white;
+}
+
+section {
+    padding: 20px 10%;  /* Reduce from default 80px */
+    margin-bottom: 20px; /* Reduce space below sections */
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url('sb1.png') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 7.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+p {
+    font-size: 2.5rem;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+/* Fade-in Animation */
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1.5s ease-out forwards;
+}
+
+.delay {
+    animation-delay: 0.5s;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+    p {
+        font-size: 1.2rem;
+    }
+}
+
+/* About Us Section */
+.about {
+    background: white;
+    padding: 80px 10%;
+    text-align: left;
+}
+
+.about h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .about {
+        padding: 50px 5%;
+    }
+
+    .about h2 {
+        font-size: 2rem;
+    }
+
+    .about p {
+        font-size: 1rem;
+    }
+}
+/* Events Section */
+.events {
+    background: white;
+    padding: 80px 10%;
+    text-align: left;
+}
+
+.events h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 40px;
+}
+
+.event-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.event-date {
+    flex: 1;
+    min-width: 250px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #222;
+}
+
+.event-date h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.event-date p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #333;
+}
+
+.event-description {
+    flex: 2;
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #333;
+    line-height: 1.4;
+    padding-left: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .event-content {
+        flex-direction: column;
+    }
+
+    .event-description {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+
+    .events h2 {
+        font-size: 2rem;
+    }
+
+    .event-date h4 {
+        font-size: 1.3rem;
+    }
+
+    .event-date p {
+        font-size: 1rem;
+    }
+
+    .event-description {
+        font-size: 1rem;
+    }
+}
+
+.event-date h4{
+    margin-top: 13.5px;
+    margin-bottom: 32.9px;
+}
+
+.container1 {
+    border-bottom: 2px solid black; /* Black line with 2px thickness */
+    padding-bottom: 20px; /* Space before the border */
+    margin-bottom: 20px; /* Space after the border */
+} 
+
+/* Sustainable Development Goals Section */
+.sdg {
+    background: white;
+    padding: 80px 10%;
+    text-align: center;
+}
+
+.sdg h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 40px;
+}
+
+.sdg-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+.sdg-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sdg-item img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .sdg-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+/* Team Section */
+.team {
+    background: white;
+    padding: 80px 10%;
+    text-align: center;
+}
+
+.team h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.team-quote {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #444;
+    margin-bottom: 40px;
+    font-style: italic;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns in the first row */
+    gap: 20px;
+    justify-content: center;
+}
+
+.team-grid .team-member {
+    aspect-ratio: 1 / 1; /* Ensures uniform square shape */
+}
+
+/* New rule to handle additional team members */
+@media (max-width: 1024px) {
+    .team-grid {
+        grid-template-columns: repeat(2, 1fr); /* Two columns per row on medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .team-grid {
+        grid-template-columns: 1fr; /* One column per row on small screens */
+    }
+}
+
+.team-member {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0.8;
+}
+
+/* Hover Effect - Fully Visible and Zoom In */
+.team-member:hover img {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 20px;
+    text-align: left;
+    font-size: 1.2rem;
+    border-radius: 0 0 10px 10px;
+}
+
+.overlay h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.overlay p {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Gallery Section */
+.gallery {
+    background: white;
+    padding: 80px 10%;
+    text-align: center;
+}
+
+.gallery h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 40px;
+}
+
+/* Collage Layout */
+.collage {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Horizontal Images */
+.collage-item.horizontal {
+    width: 100%;
+    height: 200px;
+}
+
+/* Vertical Row (Two Images Side by Side) */
+.collage-row {
+    display: flex;
+    gap: 10px;
+}
+
+.collage-item.vertical {
+    width: 50%;
+    height: 400px;
+}
+
+/* Image Styling */
+.collage-item {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.collage-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+.collage-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .collage-item.horizontal {
+        height: 150px;
+    }
+
+    .collage-item.vertical {
+        height: 300px;
+    }
+}
+
+@media (max-width: 500px) {
+    .collage-row {
+        flex-direction: column;
+    }
+
+    .collage-item.vertical {
+        width: 100%;
+        height: auto;
+    }
+}
+
+/* Contact Section */
+.contact {
+    background: white;
+    padding: 80px 10%;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 40px;
+}
+
+/* Contact Info */
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Contact Items */
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.contact-item img {
+    width: 24px;
+    height: 24px;
+}
+
+/* Email Link */
+.contact-item a {
+    text-decoration: none;
+    color: #333;
+}
+
+.contact-item a:hover {
+    color: #555;
+}
+
+/* Social Media Icons */
+.contact-item.social img {
+    width: 32px;
+    height: 32px;
+}

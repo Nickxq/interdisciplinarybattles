@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interdisciplinary Battles</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="overlay">
+            <h1 class="fade-in"> Interdisciplinary Battles</h1>
+            <p class="fade-in delay"> From Diverse Ideas to Unified Solutions</p>
+        </div>
+    </header>
+    <section class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>Interdisciplinary Battles is an organization that fuels a passion for learning—disciplinewide, worldwide—making education an equal ground for all. Our main values are inclusivity, integrity, and perseverance.</p>
+            <p>Inclusivity, to us, means that every individual—regardless of race, gender, field of study, financial background, or any other characteristic—should have the opportunity to participate fully. We strongly advocate for the right of every person to engage in the learning process.</p>
+            <p>Integrity is the cornerstone of our organization. Triumphs, failures—both demand voice. We promote transparent communication among members, encouraging honesty and authenticity.</p>
+            <p>Perseverance is our guiding principle. We embody it in every aspect of our work—from learning and research to teaching and beyond. No matter the obstacles we face, we remain steadfast in our mission.</p>
+            <p><em>Aut viam inveniam aut faciam.</em></p>
+        </div>
+    </section>
+    <section class="events">
+        <div class="container">
+            <h2 style="opacity: 0.5;">UPCOMING EVENTS</h2>
+            <div class="event-content">
+                <div class="event-date">
+                    <h4>June 2025</h4>
+                    <p>🎓MIRSAID KASSYMOV AWARD</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.8rem;">
+                        <a href="https://forms.gle/YDyZrmX4jPsbREs66" target="_blank"><b>REGISTRATION IS OPEN until June 8th 2025</b></a>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>🌍 Global Essay Prize for the Rethinkers</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        In honor of Mirsaid Kassymov, a writer that was not scared by big and obscure questions, we launch this global essay challenge to confront the questions others avoid.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>🔥 Essay Topic</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <i>“What is a question that is scary to ask—but needs to be asked? Maybe it’s scary. Maybe it sounds stupid. Maybe it’s been ignored for so long, we forgot to care. We’re looking for the unspoken, the taboo, the ridiculous-but-true. Ask the question no one wants to ask—and show us why it matters.”</i>
+                    </p>
+                      <p style="font-size: 1.6rem;">
+                        <b>✍ Who Can Enter?</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        Ages 15–30, from  any country
+                    </p>
+                     <p style="font-size: 1.6rem;">
+                        Submit in any language with an English translation (Only the English version will be evaluated)
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>🏆 Prizes</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🥇 1st Place: 70,000 KZT (\~155 USDT)
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🥈 2nd Place: 50,000 KZT (\~110 USDT)
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🥉 3rd Place: 30,000 KZT (\~65 USDT)
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>🖋 Winning entries published in the Literature Obscura Youth Journal</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>📢 Questions? Email <a href="cisteam.astana@gmail.com" target="_blank">cisteam.astana@gmail.com</a></b>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>    
+    <section class="events">
+        <div class="container1">
+            <h2 style="opacity: 0.5;">PAST EVENTS</h2>
+            <div class="event-content">
+                <div class="event-date">
+                    <h4>May 2025</h4>
+                    <p>The Ghana Forward Essay Challenge</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.6rem;">
+                        <b>💡“What’s the one question Ghana isn’t asking — but should be?"💡</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        Earlier this year, the Interdisciplinary Forward Essay Challenge invited high school and university students across Ghana to ask bold, future-shaping questions and explore untapped possibilities for the country’s development. The response was inspiring — filled with insight, creativity, and critical thought.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        Now, we are excited to announce <b>the winners of the challenge</b>:
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🏆 <b>1st Place</b> – Manteaw Cece Afia Nana Amissah
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>Essay:</b> The Role Human Resource Development—Particularly the Youth—Plays in Sustainable Development in Ghana
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        📄<a href="https://docs.google.com/document/d/1pDOQY7u8p2rdIuMiEdT-4qY2kh1uvlLE/edit?usp=sharing" target="_blank"><b>Read the essay here</b></a>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🥈 <b>2nd Place</b> –  Jephert Danso Abbeam
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>Essay:</b> Who Owns Ghana’s Data? The Unspoken Crisis of Digital Sovereignty
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        📄<a href="https://docs.google.com/document/d/1uMm7JeytvSa257PViXG8qblFqF143v4k/edit?usp=sharing" target="_blank"><b>Read the essay here</b></a>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🥉 <b>3rd Place</b> –  Benedict Ofori Debrah
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>Essay:</b> Where Are We Heading?
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        📄<a href="https://drive.google.com/file/d/1j22IoaxUAIAU2cDXcY8OpPsEYofah7kz/view?usp=sharing" target="_blank"><b>Read the essay here</b></a>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        ✨ Congratulations to all participants for pushing boundaries and helping reimagine Ghana’s future. Winners will receive certificates, mentorship, and invitations to join an international leadership forum on <b>June 28th</b>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <b>🔒 Submissions are now closed.</b>
+                    </p>
+                     <p style="font-size: 1.6rem;">
+                        <b>Stay tuned for upcoming opportunities to shape the discourse — and the future.</b>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container1">
+            <h2></h2>
+                        <div class="event-content">
+                <div class="event-date">
+                    <h4>March 15th 2025</h4>
+                    <p>Interdisciplinary Battles - The Problem of Poverty</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.6rem;">
+                        On March 15th, we had the privilege of hosting Interdisciplinary Battles: The Problem of Poverty at the Canadian International School.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        It was an incredible day filled with innovation, collaboration, and inspiring ideas as participants came together to tackle one of the most pressing global issues: poverty.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🏆 Prize Fund: 70,000 KZT + Special Partner Prizes!
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        📅 Date: March 15, 2025
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        📍 Location: Canadian International School
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        Event Highlights:
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        🔹 Theoretical Test: Participants showcased their knowledge of poverty through a comprehensive test based on preparation materials. This stage was all about understanding the depth of the issue.
+                    </p>
+                     <p style="font-size: 1.6rem;">
+                        🔹 Hands-on Project: Teams worked on developing and presenting real-world solutions to poverty. From creative initiatives to practical strategies, it was amazing to see such passion and problem-solving in action.
+                    </p>
+                     <p style="font-size: 1.6rem;">
+                        We’d like to extend our heartfelt thanks to everyone who participated, supported, and helped make this event a success. Let’s continue to collaborate and think outside the box to address challenges like poverty and make a positive impact on our world.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        ❤❤❤
+                    </p>
+                     <p style="font-size: 1.6rem;">
+                        Work done by the participants:
+                    </p>
+                     <p style="font-size: 1.6rem;">
+                        <a href="https://recycling-for-a-better-f-mmn246c.gamma.site/#card-6pbbm8ke9ihvh2t" target="_blank"><b>GREEN SHELTER WEBSITE</b></a>
+                    </p>
+                      <p style="font-size: 1.6rem;">
+                        <a href="http://poverty.qoldauteam.tilda.ws/" target="_blank"><b>QOLDAU TEAM WEBSITE</b></a>
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        <a href="youtube.com" target="_blank"><b>QOLDAU TEAM BOOK</b></a>
+                    </p>
+                    <div class="collage-row">
+                    <div class="collage-item vertical"><img src="poster.jpg"></div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="container1">
+            <h2></h2>
+            <div class="event-content">
+                <div class="event-date">
+                    <h4>May 2024</h4>
+                    <p>STEAM Battles Lowell High School Canada</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.6rem;">
+                        This time, STEAM Battles focused on sustainable architecture. Students had a limited time to explore and create a prototype of a sustainable home, using ecological materials, renewable energy, and other sustainable practices.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        Relevance to Subjects:
+                    </p>
+                    <ul style="font-size: 1.6rem;">
+                        <li>Physics: Insulation, energy efficiency</li>
+                        <li>Chemistry: Useful chemical reactions, green chemistry, dynamic equilibrium</li>
+                        <li>Biology: Safeguarding biodiversity, ecosystems, and the impact of architectural design on human health and well-being</li>
+                        <li>Design: Eco-home design</li>
+                        <li>Technology: Sensors and technological tools for sustainable homes</li>
+                        <li>Arts: The impact of colors, shapes, and artistic elements on well-being; exploring architectural styles of different eras and their ecological impact, such as Gaudí’s work</li>
+                        <li>CAS: Creativity</li>
+                        <li>FPPL / Local Communities: Exploring the impact on local communities and investigating the knowledge, techniques, and architecture used by local and indigenous people in their environments</li>
+                      </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container1">
+            <h2></h2>
+            <div class="event-content">
+                <div class="event-date">
+                    <h4>December 2023</h4>
+                    <p>STEAM Battles 1.0</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.6rem;">
+                        The initiative of STEAM Battles aims to revolutionize the education landscape by equipping high school and middle school students with practical skills, teamwork abilities, and communication competencies essential for their future success. The implementation strategy, which is already underway, involves coordinating efforts amongst various academic institutions globally to transform STEAM Battles into an international endeavor.
+                    </p>
+                    <p style="font-size: 1.6rem;">
+                        The second stage of the inaugural event brought together 95 individuals from all over Kazakhstan (Astana, Almaty, Karaganda, and Atyrau) and received over 200 applications to attend the event on the first stage. The preparatory phase took 3 months and included over 30 volunteers. We acquired over 100 KGs of props. The objective of the hands-on project was that each team had to attempt to build a construction that was able to hold the maximum weight of 30 kgs/66 lbs. Moreover, by including the component of financial literacy, specifically practiced through purchasing materials with our inter-olympiad currency, we improved the financial literacy skills of all participants.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container1">
+            <h2></h2>
+            <div class="event-content">
+                <div class="event-date">
+                    <h4>November 2023</h4>
+                    <p>Charity Fair</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.6rem;">
+                        In just one day, our Charity Fair raised $400 to support our organisation's mission. By providing students with a platform to showcase and sell their goods-ranging from pastries to crafted handmade tools - we engaged over 70 individuals in our fundraising efforts. Ulytau Foundation, consequently after witnessing our deeds, bestowed us $600.
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h2></h2>
+            <div class="event-content">
+                <div class="event-date">
+                    <h4>September-October 2023</h4>
+                    <p>Eco Challenge</p>
+                </div>
+                <div class="event-description">
+                    <p style="font-size: 1.6rem;">
+                        In the span of 2 months we collaborated with all classes and held an eco-challenge.The eco-challenge aimed to promote sustainability and student agency by implementing an innovative approach that incorporated responsible consumption and production, sustainable communities, and climate action from the SDGs. The primary strategy involved collaborating with all classes and organizing an eco-challenge, where students collected paper, cardboard, and plastic bottles to be used as props for a subsequent event.  The initiative resulted in the collection of approximately 100 kgs of paper/cardboard and 50 kg of plastic.
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="sdg">
+        <div class="container">
+            <h2>Our Sustainable Development Goals</h2>
+            <div class="sdg-grid">
+                <div class="sdg-item">
+                    <img src="sdg4.jpg" alt="Quality Education">
+                </div>
+                <div class="sdg-item">
+                    <img src="sdg10.png" alt="Reduced Inequalities">
+                </div>
+                <div class="sdg-item">
+                    <img src="sdg12.png" alt="Responsible Consumption">
+                </div>
+                <div class="sdg-item">
+                    <img src="sdg13.png" alt="Climate Action">
+                </div>
+                <div class="sdg-item">
+                    <img src="sdg15.jpg" alt="Life on Land">
+                </div>
+                <div class="sdg-item">
+                    <img src="sdg17.png" alt="Partnerships for the Goals">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gallery">
+        <div class="container">
+            <h2>View Gallery</h2>
+            <div class="collage">
+                <div class="collage-item horizontal"><img src="gal1.png" alt="Gallery Image 1"></div>
+                <div class="collage-row">
+                    <div class="collage-item vertical"><img src="gal2.jpg" alt="Gallery Image 2"></div>
+                    <div class="collage-item vertical"><img src="gal3.jpg" alt="Gallery Image 3"></div>
+                </div>
+                <div class="collage-item horizontal"><img src="gal4.jpg" alt="Gallery Image 4"></div>
+                <div class="collage-row">
+                    <div class="collage-item vertical"><img src="gal7.jpeg" alt="Gallery Image 5"></div>
+                    <div class="collage-item vertical"><img src="gal6.jpeg" alt="Gallery Image 6"></div>
+                </div>
+                <div class="collage-item horizontal"><img src="gal5.png" alt="Gallery Image 7"></div>
+                <div class="collage-row">
+                    <div class="collage-item vertical"><img src="gal8.jpg" alt="Gallery Image 8"></div>
+                    <div class="collage-item vertical"><img src="gal9.jpg" alt="Gallery Image 9"></div>
+                </div>
+                <div class="collage-row">
+                    <div class="collage-item vertical"><img src="gal10.jpg" alt="Gallery Image 10"></div>
+                    <div class="collage-item vertical"><img src="gal11.jpg" alt="Gallery Image 11"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="contact">
+        <div class="container">
+            <h2>Interdisciplinary Battles</h2>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <p>Turan Ave 75, Astana 010000, Kazakhstan</p>
+                </div>
+                <div class="contact-item">
+                    <a href="cisteam.astana@gmail.com" target="_blank"><p>cisteam.astana@gmail.com</p></a>
+                </div>
+                <div class="contact-item social">
+                    <a href="https://www.instagram.com/interdiscip.battles/" target="_blank"><img src="insticon.jpg" alt="Instagram Icon"><a href="https://www.instagram.com/interdiscip.battles/" target="_blank">Instagram</a>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>    
+</body>
+</html>
